@@ -33,4 +33,4 @@ Deployed on Vercel
 🧠 Code structured for reusability and clarity
 
 🚀 Live Demo
-🔗 Click here to view the live project (Insert your Vercel or Netlify link)
+🔗 Click here to view the live project 

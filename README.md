@@ -1,111 +1,36 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
+VelvetPour 🍹 | An Animated Cocktail Landing Page Built with React, GSAP & Tailwind CSS
 
-   <div>
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+VelvetPour is a visually immersive cocktail website that brings mixology to life through rich animations and elegant UI. Crafted with React, powered by GSAP for scroll-triggered motion and parallax effects, and styled using Tailwind CSS, this project blends design and interactivity into a seamless front-end experience.
 
-  <h3 align="center">Stunning GSAP Cocktail Website</h3>
+From smooth section transitions to animated cocktail sliders, every detail is designed to feel like that first perfect sip.
 
-   
+🔧 Built With
+React.js – Component-based architecture
 
-## 📋 <a name="table">Table of Contents</a>
+GSAP – Animation library for fluid, performant motion
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+ScrollTrigger – Scroll-based animation control
 
+Tailwind CSS – Utility-first responsive styling
 
-- **[GSAP](https://gsap.com/)** is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
+Framer Motion – For hover effects and subtle transitions
 
-- **[React](https://react.dev/)** is a declarative JavaScript library for building interactive UIs. It provides the component structure for modular development, allowing smooth integration of GSAP animations, reusable logic for scroll behavior, and support for responsive layout and state-driven UI features like carousels and video sections.
+Vite – Fast dev server and build tooling
 
-- **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.
+Deployed on Vercel
 
-- **[Vite](https://vitejs.dev/)** is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
+🌟 Features
+🍸 Animated hero & scroll-triggered reveals
 
-## <a name="features">🔋 Features</a>
+🍹 Cocktail slider with modular infinite scroll
 
-👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
+📱 Responsive layout for desktop, tablet & mobile
 
-👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger.
+🎥 Parallax video section with controlled playback
 
-👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll.
+🎨 Custom cursor and interactive menu transitions
 
-👉 **Pinned Sections**: Lock sections in view while animating content for engaging scroll experiences.
+🧠 Code structured for reusability and clarity
 
-👉 **Scroll-Synced Video Playback**: Sync video progress with scroll position for cinematic storytelling.
-
-👉 **Image Masking Effects**: Use scroll-triggered pins and masks for visually striking image transitions.
-
-👉 **Custom Carousel**: Build a fully customized carousel with multiple navigation options and animated slides.
-
-👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections.
-
-👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
-
-And many more, including enhanced security and optimized video performance!
-
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/gsap_cocktails.git
-cd gsap_cocktails
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[Video Kit](https://jsm.dev/cocktail-kit)**.
-
-<a href="https://jsm.dev/cocktail-kit" target="_blank">
-  <img src="public/readme/videokit.png" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/cocktail-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
+🚀 Live Demo
+🔗 Click here to view the live project (Insert your Vercel or Netlify link)
